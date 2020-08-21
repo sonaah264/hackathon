@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Schemes</title>
+   </head>
+
+   <body>
+      <h1>Schemes</h1>
+      
+         <a href="#"> Financial</a>  
+        <a href="#"> Educational </a> 
+       <a href="#"> Agriculture </a> 
+      <a href="#"> Housing </a> 
+      
+   </body>
+</html>
